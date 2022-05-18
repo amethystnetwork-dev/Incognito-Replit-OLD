@@ -20,6 +20,8 @@
 # Manual Setup
 
 Remember to follow the steps exactly, skipping ``` npm install ``` will result in a broken Incognito!
+
+Replit shoud do ``` npm install ``` automatically.
          
          
 ```sh
