@@ -7,7 +7,7 @@
 <h1>Incognito</h1>
 
 <h3>Access the world wide web</h3>
-         
+
 </div>
 
 <p align="center">
@@ -26,7 +26,10 @@ Replit shoud do ``` npm install ``` automatically.
          
 ```sh
 git clone IDontCodee/Incognito-Replit
+
 cd Incognito-Replit
+
 npm install
+
 npm start
 ```
