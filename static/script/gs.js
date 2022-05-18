@@ -9,7 +9,7 @@ async function gs(app) {
     });
     app.main.emptySearch = app.createElement('div', [
         app.createElement('p', 'No results found.'),
-        app.createElement('p', '<p>Want to suggest a game to be added? Reach out to any staff in our <a href="https://discord.gg/unblock">community</a>.</p>')
+        app.createElement('p', '<p>You may have misspelled your search or the game is too big to fit on Replit.</p>')
     ], {
         class: 'gs-empty',
         style: {
