@@ -81,32 +81,6 @@
       "author": "Tom Fulp"
     },
     {
-      "img": "./img/gs/btd4.jpg",
-      "location": "./source/btd4/",
-      "category": "web",
-      "title": "Bloons Tower Defense 4"
-    },
-    {
-      "img": "./img/gs/astray.jpg",
-      "location": "./source/astray/",
-      "title": "Astray"
-    },
-    {
-      "img": "./img/gs/chroma.jpg",
-      "location": "./source/chroma/",
-      "title": "The Chroma Incident",
-      "description": "The Achromats have taken the worlds color offline! Raid their colorless lair and vanquish them all, restoring the world to it's technicolor glory.",
-      "author": "Ryan Malm"
-    },
-    {
-      "img": "./img/gs/chrome.png",
-      "location": "./source/dinosaur/",
-      "title": "Chrome Dinosaur",
-      "author": "Google",
-      "category": "web",
-      "description": "The Dinosaur Game is a browser game developed by Google and built into the Google Chrome web browser. The player guides a pixelated Tyrannosaurus rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score."
-    },
-    {
       "img": "./img/gs/cookie-clicker.jpg",
       "location": "./source/cookie/",
       "title": "Cookie Clicker",
@@ -115,91 +89,10 @@
       "author": "Orteil"
     },
     {
-      "img": "./img/gs/cubefield.jpg",
-      "location": "./source/cubefield/",
-      "title": "Cubefield",
-      "description": "Cubefield is a fast-paced endless running game that tests your ability to dodge obstacles at high speed.",
-      "author": "Nils Asejevs"
-    },
-    {
-      "img": "./img/gs/doodle.jpg",
-      "location": "./source/doodle-jump/",
-      "title": "Doodle Jump",
-      "category": "web",
-      "author": "Lima Sky"
-    },
-    {
-      "img": "./img/gs/drift-hunters.jpg",
-      "location": "./source/drift/",
-      "title": "Drift Hunters"
-    },
-    {
-      "img": "./img/gs/ducklife.jpg",
-      "location": "./source/ducklife/",
-      "category": "web",
-      "title": "Duck Life"
-    },
-    {
-      "img": "./img/gs/ducklife2.jpg",
-      "location": "./source/ducklife2/",
-      "category": "web",
-      "title": "Duck Life 2"
-    },
-    {
-      "img": "./img/gs/ducklife3.jpg",
-      "location": "./source/ducklife3/",
-      "category": "web",
-      "title": "Duck Life 3: Evolution"
-    },
-    {
-      "img": "./img/gs/ducklife4.jpg",
-      "location": "./source/ducklife4/",
-      "category": "web",
-      "title": "Duck Life 4"
-    },
-    {
       "img": "./img/gs/earthbound.jpg",
       "location": "./source/webretro/?core=autodetect&rom=earthbound.smc",
       "title": "Earthbound",
       "category": "gba"
-    },
-    {
-      "img": "./img/gs/fireboy-and-watergirl-forest-temple.jpg",
-      "location": "./source/fireboy-and-watergirl-forest-temple/",
-      "category": "web",
-      "title": "Fireboy & Watergirl Into the Forest Temple"
-    },
-    {
-      "img": "./img/gs/flappybird.jpg",
-      "location": "./source/flappybird/",
-      "category": "web",
-      "title": "Flappy Bird"
-    },
-    {
-      "img": "./img/gs/fnf.jpg",
-      "location": "./source/fnf/",
-      "category": "web",
-      "title": "Friday Night Funkin"
-    },
-    {
-      "img": "./img/gs/friendlyfire.jpg",
-      "location": "./source/friendlyfire/",
-      "title": "Friendly Fire"
-    },
-    {
-      "img": "./img/gs/geometry.jpg",
-      "location": "./source/geometry/",
-      "title": "Geometry Dash"
-    },
-    {
-      "img": "./img/gs/gopherkart.jpg",
-      "location": "./source/gopher-kart/",
-      "title": "Gopher Kart"
-    },
-    {
-      "img": "./img/gs/hexgl.jpg",
-      "location": "./source/hexgl/",
-      "title": "HexGL"
     },
     {
       "img": "./img/gs/justfall-lol.jpg",
@@ -219,21 +112,11 @@
       "category": "nes"
     },
     {
-      "img": "./img/gs/minecraft.jpg",
-      "location": "./source/mc-classic/",
-      "title": "Minecraft Classic"
-    },
-    {
       "img": "./img/gs/mc.png",
       "location": "./source/eag/",
       "title": "Minecraft Eaglercraft",
       "category": "web",
       "featured": true
-    },
-    {
-      "img": "./img/gs/pacman.jpg",
-      "location": "./source/pacman/",
-      "title": "Pac Man"
     },
     {
       "img": "./img/gs/paper-io.jpg",
@@ -280,35 +163,6 @@
       "img": "./img/gs/radiusraid.jpg",
       "location": "./source/radius-raid/",
       "title": "Radius Raid"
-    },
-    {
-      "img": "./img/gs/retro-bowl.jpg",
-      "location": "./source/retro-bowl/",
-      "category": "web",
-      "title": "Retro Bowl"
-    },
-    {
-      "img": "./img/gs/ritz.jpg",
-      "location": "./source/ritz/",
-      "title": "Ritz"
-    },
-    {
-      "img": "./img/gs/run3.jpg",
-      "location": "./source/run3/",
-      "title": "Run 3",
-      "author": "Player03",
-      "category": "web",
-      "description": "There’s a whole new galaxy waiting to be explored! Use the arrow keys to run and jump through the space tunnels. Use the left and right arrow keys to rotate the world as you go. \n\nThere are two ways you can play Run 3: Explore Mode and Infinite Mode. To add more levels to your Galaxy Map, choose Explore Mode. The Runner will encounter lots of new tunnels and areas, and may bump into some friends along the way! \n\nFor an endless run, choose Infinite Mode. You’ll find power cells scattered across the tunnels in this mode. You’ll have to watch your step though! If you fall out of the tunnel in Infinite Mode, it’s game over. You can use power cells to continue your run with a new character. ",
-      "featured": true
-    },
-    {
-      "img": "./img/gs/slope.jpg",
-      "location": "./source/slope/",
-      "title": "Slope",
-      "author": "Y8 Studios",
-      "category": "web",
-      "featured": true,
-      "description": "Slope is the ultimate running game that will put your skills to the test. Speed down on a randomized slope. The farther you go, the faster your ball travels. This game might look simple but playing this will give you extreme adrenaline rush. Just remember to avoid obstacles and those red blocks. Always be on track to get a high score and you might have your name on the leaderboard! "
     },
     {
       "img": "./img/gs/sm-allstars.jpg",
@@ -358,11 +212,7 @@
       "title": "Sonic The Hedgehog 3",
       "category": "sega"
     },
-    {
-      "img": "./img/gs/spaceinvaders.jpg",
-      "location": "./source/spaceinvaders/",
-      "title": "Space Invaders"
-    },
+
     {
       "img": "./img/gs/super-metroid.jpg",
       "location": "./source/webretro/?core=autodetect&rom=supermetroid.smc",
@@ -392,24 +242,6 @@
       "location": "./source/webretro/?core=autodetect&rom=ffiii.nes",
       "title": "Final Fantasy III",
       "category": "nes"
-    },
-    {
-      "img": "./img/gs/vex3.jpg",
-      "location": "./source/vex3/",
-      "title": "Vex 3",
-      "category": "web"
-    },
-    {
-      "img": "./img/gs/vex4.jpg",
-      "location": "./source/vex4/",
-      "title": "Vex 4",
-      "category": "web"
-    },
-    {
-      "img": "./img/gs/vex5.jpg",
-      "location": "./source/vex5/",
-      "title": "Vex 5",
-      "category": "web"
     },
     {
       "img": "./img/gs/zelda-minish-cap.jpg",
