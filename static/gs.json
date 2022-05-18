@@ -112,13 +112,6 @@
       "category": "nes"
     },
     {
-      "img": "./img/gs/mc.png",
-      "location": "./source/eag/",
-      "title": "Minecraft Eaglercraft",
-      "category": "web",
-      "featured": true
-    },
-    {
       "img": "./img/gs/paper-io.jpg",
       "location": "./load.html#cGFwZXItaW8uY29t",
       "title": "Paper.io",
