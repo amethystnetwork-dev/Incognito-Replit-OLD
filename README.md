@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/IDontCodee/Incognito-Replit"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
 <a href="https://repl.it/github/IDontCodee/Incognito-Replit"><img height="30px" src="https://raw.githubusercontent.com/IDontCodee/Incognito-Replit/main/deploy/replit.svg"><img></a>
-<a href="https://glitch.com/edit/#!/import/github/IDontCodee/Incognito-Replit"><img height="30px" src="https://raw.githubusercontent.com/IDontCodee/Incognito-Replit/main/deploy/glitch.svg"><img></a>
+<a href="https://railway.app/new/template?template=https://github.com/IDontCodee/Incognito-Replit"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
 </p>
 
 <div align="center">
