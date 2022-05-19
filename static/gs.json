@@ -62,7 +62,7 @@
       "description": "Discover 1v1, the online building simulator & third person shooting game. Battle royale, build fight, box fight, zone wars and more game modes to enjoy!"
     },
     {
-      "img": "./img/gs/2048.png",
+      "img": "./img/gs/2048.jpg",
       "location": "./source/2048/",
       "title": "2048",
       "description": "Join the tiles, get to 2048!"
