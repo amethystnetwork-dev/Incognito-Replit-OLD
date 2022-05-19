@@ -15,21 +15,7 @@
 <a href="https://repl.it/github/IDontCodee/Incognito-Replit"><img height="30px" src="https://raw.githubusercontent.com/IDontCodee/Incognito-Replit/main/deploy/replit.svg"><img></a>
 <a href="https://glitch.com/edit/#!/import/github/IDontCodee/Incognito-Replit"><img height="30px" src="https://raw.githubusercontent.com/IDontCodee/Incognito-Replit/main/deploy/glitch.svg"><img></a>
 </p>
-</p>
 
-# Manual Setup
-
-Remember to follow the steps exactly, skipping ``` npm install ``` will result in a broken Incognito!
-
-Replit shoud do ``` npm install ``` automatically.
-         
-         
-```sh
-git clone IDontCodee/Incognito-Replit
-
-cd Incognito-Replit
-
-npm install
-
-npm start
-```
+<div align="center">
+         Please check the wiki for more deployment methods
+         </div>
