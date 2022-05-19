@@ -12,9 +12,20 @@
             "name": "<a href=\"https://github.com/e9x\">e9x</a>",
             "data": "Creator of <a href=\"https://github.com/tomphttp/\">TompHTTP</a>"
         },
-        {
+                {
             "name": "<a href=\"https://github.com/IDontCodee\">IDontCodee</a>",
             "data": "Ported to Replit"
+        }
+    ],
+    "socials": [
+        {
+            "name": "<a href=\"https://www.patreon.com/incognitotn\">Patreon</a>",
+            "data": "Helps Incognito restock its domains & upgrade servers"
+        }
+    ],
+    "contact": [
+        {
+            "name": "<a href=\"mailto:incognito@titaniumnetwork.org\">incognito@titaniumnetwork.org</a>"
         }
     ]
 }
