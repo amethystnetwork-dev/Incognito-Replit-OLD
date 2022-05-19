@@ -189,11 +189,6 @@
       "title": "LittleBigSnake"
     },
     {
-      "img": "./img/gs/metroid.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=metroid.nes",
-      "title": "Metriod"
-    },
-    {
       "img": "./img/gs/minecraft.jpg",
       "location": "/source/mc-classic/",
       "title": "Minecraft Classic"
@@ -207,31 +202,6 @@
       "img": "./img/gs/paper-io.jpg",
       "location": "./load.html#cGFwZXItaW8uY29t",
       "title": "Paper.io"
-    },
-    {
-      "img": "./img/gs/poke-emerald.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=poke_emerald.gba",
-      "title": "PokÃ©mon Emerald"
-    },
-    {
-      "img": "./img/gs/poke-fire-red.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=poke_firered.gba",
-      "title": "PokÃ©mon Fire Red"
-    },
-    {
-      "img": "./img/gs/poke-leaf-green.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=poke_leafgreen.gba",
-      "title": "PokÃ©mon Leaf Green"
-    },
-    {
-      "img": "./img/gs/poke-ruby.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=poke_ruby.gba",
-      "title": "PokÃ©mon Ruby"
-    },
-    {
-      "img": "./img/gs/poke-sapphire.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=poke_sapphire.gba",
-      "title": "PokÃ©mon Sapphire"
     },
     {
       "img": "./img/gs/portal2d.jpg",
@@ -268,54 +238,14 @@
       "description": "Slope is the ultimate running game that will put your skills to the test. Speed down on a randomized slope. The farther you go, the faster your ball travels. This game might look simple but playing this will give you extreme adrenaline rush. Just remember to avoid obstacles and those red blocks. Always be on track to get a high score and you might have your name on the leaderboard! "
     },
     {
-      "img": "./img/gs/sm-allstars.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=sm-allstars.smc",
-      "title": "Super Mario All Stars"
-    },
-    {
       "img": "./img/gs/sm64.jpg",
       "location": "/source/sm64/",
       "title": "Super Mario 64"
     },
     {
-      "img": "./img/gs/smb.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=smb.nes",
-      "title": "Super Mario Bros"
-    },
-    {
-      "img": "./img/gs/smb3.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=smb3.gba",
-      "title": "Super Mario Bros 3"
-    },
-    {
-      "img": "./img/gs/smw.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=smw.gba",
-      "title": "Super Mario World"
-    },
-    {
-      "img": "./img/gs/sonic.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=sonic.md",
-      "title": "Sonic The Hedgehog"
-    },
-    {
-      "img": "./img/gs/sonic2.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=sonic2.md",
-      "title": "Sonic The Hedgehog 2"
-    },
-    {
-      "img": "./img/gs/sonic3.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=sonic3.md",
-      "title": "Sonic The Hedgehog 3"
-    },
-    {
       "img": "./img/gs/spaceinvaders.jpg",
       "location": "/source/spaceinvaders/",
       "title": "Space Invaders"
-    },
-    {
-      "img": "./img/gs/super-metroid.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=supermetroid.smc",
-      "title": "Super Metroid"
     },
     {
       "img": "./img/gs/vex3.jpg",
@@ -331,21 +261,6 @@
       "img": "./img/gs/vex5.jpg",
       "location": "/source/vex5/",
       "title": "Vex 5"
-    },
-    {
-      "img": "./img/gs/zelda-minish-cap.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=zelda_minish.gba",
-      "title": "The Legend of Zelda: The Minish Cap"
-    },
-    {
-      "img": "./img/gs/zelda-past.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=zelda_past.gba",
-      "title": "The Legend of Zelda: A Link to the Past"
-    },
-    {
-      "img": "./img/gs/zelda.jpg",
-      "location": "/source/webretro/?core=autodetect&rom=zelda.nes",
-      "title": "The Legend of Zelda"
     },
     {
       "img": "./img/gs/warfare1917.png",
