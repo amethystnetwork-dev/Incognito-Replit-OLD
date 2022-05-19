@@ -17,5 +17,5 @@
 </p>
 
 <div align="center">
-         Please check the <a href="https://github.com/IDontCodee/Incognito-Replit/wiki">wiki</a> for more deployment methods
+         Please check the <a href="https://github.com/IDontCodee/Incognito-Replit/wiki">here</a> for all deployment methods
          </div>
