@@ -1,7 +1,7 @@
 <div align="center">
 
 <kbd>
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/IDontCodee/Incognito-Replit/main/deploy/logo.svg">
+<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/IDontCodee/Incognito-Replit/main/static/index.svg">
 </kbd>
          
 <h1>Incognito</h1>
