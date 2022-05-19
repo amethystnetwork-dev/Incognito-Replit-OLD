@@ -20,4 +20,4 @@ server.on('upgrade', (req, socket, head) => {
 });
 
 server.listen(process.env.PORT || 8080);
-console.log('incog started')
+console.log('Incognito running!')
