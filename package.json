@@ -4,7 +4,7 @@
   },
   "name": "uv-app",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "Incognito instance",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
